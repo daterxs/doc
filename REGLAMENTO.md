@@ -16,7 +16,7 @@ El objetivo de este documento es:
 
 ## Reglas propuestas
 
-<!-- Dejar la numeracion como "1." y que markdown numere por si solo. Es conveniente para mover el orden si hiciese falta. --> > [+1]
+<!-- Dejar la numeracion como "1." y que markdown numere por si solo. Es conveniente para mover el orden si hiciese falta. -->
 
 1. Es un grupo para debate, discusión y ay# Reglamento grupo Usuaries de datos
 
